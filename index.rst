@@ -36,6 +36,7 @@ WeBee产品资料下载站
    wifi/w_001/w_001
    wifi/w_003/w_003
    wifi/w_004/w_004
+   wifi/WB89_01/WB89_01
 
 .. toctree::
    :maxdepth: 2
